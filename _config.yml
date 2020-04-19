@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ariane Mueting / Geosciences"
 title_separator          : "-"
 name                     : &name "Ariane Mueting"
-description              : &description "Environmental Remote Sensing"
+description              : &description "Remote Sensing of the Environment"
 url                      : https://arimue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arimue/arimue.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ariane Mueting"
   avatar           : "FotoWebsite.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Remote Sensing, Geomorphology, Digital Elevation Models, Satellite Photogrammetry"
   location         : "Potsdam, Germany"
   employer         : "University of Potsdam"
   pubmed           : 
