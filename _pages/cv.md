@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Geeological Remote Sensing, University of Potsdam, Germany, since 2020
+* Ph.D. in Geological Remote Sensing, University of Potsdam, Germany, since 2020
 * M.Sc. in Geology, University of Potsdam, Germany, 2020
 * B.Sc. in Geosciences, University of Potsdam, Germany, 2018
 
