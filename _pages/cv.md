@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Geological Remote Sensing, University of Potsdam, Germany, since 2020
-* M.Sc. in Geology, University of Potsdam, Germany, 2020
-* B.Sc. in Geosciences, University of Potsdam, Germany, 2018
+## Appointments
 
-
-
+| Year | Position |
+|:----:|:--------:|
+| 2020 -- present | PhD student at the University of Potsdam, Germany|
+| 2018 -- 2020 | Master of Science in Geology, University of Potsdan, Germany |
+| 2017 -- 2020 | Research Assistant at the GFZ German Research Centre for Geosciences |
+| 2014 -- 2018 | Bachelor of Science in Geosciences, University of Potsdam, Germany |
